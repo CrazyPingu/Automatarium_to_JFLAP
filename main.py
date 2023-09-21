@@ -53,7 +53,7 @@ def convert_json_to_xml(input_file, output_file):
 
 if __name__ == "__main__":
     # Define the input folder containing JSON files
-    input_folder = "Automatarium_file"
+    input_folder = "Automatarium_files"
 
     # Define the output folder where XML files will be saved
     output_folder = "Output"
