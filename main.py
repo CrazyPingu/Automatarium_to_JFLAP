@@ -1,4 +1,3 @@
-#!/bin/bash
 import os
 import json
 import xml.etree.ElementTree as ET
